@@ -10,3 +10,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+#container {
+    height: 380px;
+    width: 150px;
+}
+
+#containerHolder {
+    height: 90px;
+    width: 30px;
+}
+
+.circle {
+    border-radius: 75px 75px;
+    width: 85px;
+    height: 85px;
+    
+}
+
+.shine {
+    box-shadow: 1px 1px 40px 20px rgb(247, 255, 185); 
+}
